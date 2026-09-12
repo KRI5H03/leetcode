@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KRI5H03/leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/KRI5H03/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [2544-alternating-digit-sum](https://github.com/KRI5H03/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Stack
 |  |
 | ------- |
