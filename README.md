@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KRI5H03/leetcode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/KRI5H03/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/KRI5H03/leetcode/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KRI5H03/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KRI5H03/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
