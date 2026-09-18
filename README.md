@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KRI5H03/leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/KRI5H03/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1952-three-divisors](https://github.com/KRI5H03/leetcode/tree/master/1952-three-divisors) |
 | [2544-alternating-digit-sum](https://github.com/KRI5H03/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Stack
 |  |
@@ -70,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KRI5H03/leetcode/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KRI5H03/leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KRI5H03/leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KRI5H03/leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KRI5H03/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
