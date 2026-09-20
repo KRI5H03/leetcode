@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/KRI5H03/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/KRI5H03/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/KRI5H03/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KRI5H03/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KRI5H03/leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/KRI5H03/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1952-three-divisors](https://github.com/KRI5H03/leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KRI5H03/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/KRI5H03/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Stack
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/KRI5H03/leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KRI5H03/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -87,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/KRI5H03/leetcode/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KRI5H03/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KRI5H03/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
