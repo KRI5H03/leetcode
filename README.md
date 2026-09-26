@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRI5H03/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KRI5H03/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/KRI5H03/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/KRI5H03/leetcode/tree/master/0622-design-circular-queue) |
 | [0867-transpose-matrix](https://github.com/KRI5H03/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/KRI5H03/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/KRI5H03/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KRI5H03/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KRI5H03/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KRI5H03/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/KRI5H03/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KRI5H03/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/KRI5H03/leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/KRI5H03/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
