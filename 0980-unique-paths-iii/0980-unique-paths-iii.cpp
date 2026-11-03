@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(vector<vector<int>> arr, int r, int c, int z) {
+    int solve(vector<vector<int>> &arr, int r, int c, int z) {
         int n = arr.size();
         int m = arr[0].size();
         if (r < 0 || r >= n || c < 0 || c >= m || arr[r][c] == -1) {
