@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/KRI5H03/leetcode/tree/master/0622-design-circular-queue) |
 | [0867-transpose-matrix](https://github.com/KRI5H03/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/KRI5H03/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/KRI5H03/leetcode/tree/master/0980-unique-paths-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KRI5H03/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1572-matrix-diagonal-sum](https://github.com/KRI5H03/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KRI5H03/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/KRI5H03/leetcode/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/KRI5H03/leetcode/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/KRI5H03/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -148,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KRI5H03/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/KRI5H03/leetcode/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/KRI5H03/leetcode/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/KRI5H03/leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
